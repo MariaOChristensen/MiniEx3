@@ -1,6 +1,6 @@
 # MiniEx3
 
-![screenshot](https://github.com/MariaOChristensen/MiniEx3/blob/master/Throbber%20screenshot.png)
+![screenshot](https://github.com/MariaOChristensen/MiniEx3/blob/gh-pages/Throbber%20screenshot.png)
 
 The idea behind my throbber design is for the user to have something to look at while waiting. It is not so much an attempt to entertain as it is an attempt to mesmerize the user. I wish to give their mind a break in which they forget to be impatient and just exist in this moment without thinking - like when you find yourself hypnotized by a candle flame.
 I chose the halo of the sun sigil from the Silent Hill series because I am a big fan and so that I did not have to start from scratch, but also because I hoped that it would have enough symbols and size to engulf the user who looked at it. And if thought into context - as a throbber used for the actual SH games - it could function as a space within to catch one's breath before yet again entering a state of mild anxiety in a survival horror universe.
